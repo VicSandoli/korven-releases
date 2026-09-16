@@ -6,7 +6,7 @@ Este repositório contém apenas os instaladores assinados e as notas de release
 
 ## Instalar e atualizar
 
-Baixe o instalador `.exe` na [release estável mais recente](https://github.com/VicSandoli/korven-releases/releases/latest). Feche o Korven antes da instalação inicial.
+Baixe o instalador `.exe` na [release estável mais recente](https://github.com/VicSandoli/korven-releases/releases/latest). Feche o Korven e desconecte os clientes MCP antes da instalação inicial.
 
 A partir da versão 0.1.1, o aplicativo consulta novas releases ao abrir e periodicamente. Uma atualização disponível aparece na barra de status e em **Configurações → Atualizações**. Você escolhe quando baixar e instalar. O app salva os documentos e cria um backup da base antes da instalação; encerre gravações e ditado antes de atualizar. Desconecte temporariamente os clientes MCP se o app indicar que o servidor está ocupado.
 
